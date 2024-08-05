@@ -13,4 +13,4 @@
 
 ![](https://cojo.ru/wp-content/uploads/2023/01/prikolnye-kartinki-6.webp)
 
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
